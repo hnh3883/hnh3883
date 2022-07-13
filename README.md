@@ -10,20 +10,20 @@
     </p>
   <br>
 
-  <h3>✨ Languages and Tools ✨</h3>
+  <h3>🎏 Languages and Tools 🎏</h3>
     <h5>Languages</h5>
       <img src="https://img.shields.io/badge/Java-000000?style=round-square&logo=OpenJDK&logoColor=red"/>
-      <img src="https://img.shields.io/badge/C-000000?style=round-square&logo=C#&logoColor=blue"/>
+      <img src="https://img.shields.io/badge/C-000000?style=round-square&logo=C#&logoColor=red"/>
     <h5>Tools</h5>
-      <img src="https://img.shields.io/badge/AndroidStudio-000000?style=round-square&logo=AndroidStudio&logoColor=blue"/>
-      <img src="https://img.shields.io/badge/Unity-000000?style=round-square&logo=Unity&logoColor=150458">
+      <img src="https://img.shields.io/badge/AndroidStudio-000000?style=round-square&logo=AndroidStudio&logoColor=32CD32"/>
+      <img src="https://img.shields.io/badge/Unity-000000?style=round-square&logo=Unity&logoColor=FFFFFF">
       <img src="https://img.shields.io/badge/RStudio-000000?style=round-square&logo=RStudio&logoColor=4479A1">
-      <img src="https://img.shields.io/badge/MySQL-000000?style=round-square&logo=MySQL&logoColor=4479A1">
+      <img src="https://img.shields.io/badge/MySQL-000000?style=round-square&logo=MySQL&logoColor=EE82EE">
   <br>
   <br>
   <h3>📮 Contact Me 📮</h3>
   <p>
-    <a href="mailto:hnh3883@gmail.com"><img src="https://img.shields.io/badge/hnh3883@gmail.com-000000?style=flat&logo=Gmail&logoColor=E4405F"/></a>
-    <a href="https://www.instagram.com/ji.hun_h/"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
+    <a href="mailto:hnh3883@gmail.com"><img src="https://img.shields.io/badge/hnh3883@gmail.com-000000?style=flat&logo=Gmail&logoColor=FF0000"/></a>
+    <a href="https://www.instagram.com/ji.hun_h/"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=FF1493"/></a>
   </p>
 </div>
