@@ -12,17 +12,18 @@
 
   <h3>✨ Languages and Tools ✨</h3>
     <h5>Languages</h5>
-      <img src="https://img.shields.io/badge/Java-000000?style=round-square&logo=HTML5&logoColor=red"/>
-      <img src="https://img.shields.io/badge/C-000000?style=round-square&logo=css3&logoColor=blue"/>
+      <img src="https://img.shields.io/badge/Java-000000?style=round-square&logo=Java&logoColor=red"/>
+      <img src="https://img.shields.io/badge/C-000000?style=round-square&logo=C#&logoColor=blue"/>
     <h5>Tools</h5>
-      <img src="https://img.shields.io/badge/AndroidStudio-000000?style=round-square&logo=Python&logoColor=blue"/>
-      <img src="https://img.shields.io/badge/Unity-000000?style=round-square&logo=Pandas&logoColor=150458">
-      <img src="https://img.shields.io/badge/RStudio-000000?style=round-square&logo=MySQL&logoColor=4479A1">
+      <img src="https://img.shields.io/badge/AndroidStudio-000000?style=round-square&logo=AndroidStudio&logoColor=blue"/>
+      <img src="https://img.shields.io/badge/Unity-000000?style=round-square&logo=Unity&logoColor=150458">
+      <img src="https://img.shields.io/badge/RStudio-000000?style=round-square&logo=RStudio&logoColor=4479A1">
+      <img src="https://img.shields.io/badge/MySQL-000000?style=round-square&logo=MySQL&logoColor=4479A1">
   <br>
   <br>
   <h3>📮 Contact Me 📮</h3>
   <p>
-    <a href="mailto:hnh3883@naver.com"><img src="https://img.shields.io/badge/Naver-000000?style=round-square&logo=gmail&logoColor=EA4335"/></a>
+    <a href="mailto:hnh3883@gmail.com"><img src="https://img.shields.io/badge/hnh3883@gmail.com-000000?style=flat&logo=Gmail&logoColor=E4405F"/></a>
     <a href="https://www.instagram.com/ji.hun_h/"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
   </p>
 </div>
