@@ -10,7 +10,7 @@
     </p>
   <br>
 
-  <h3>🎏 Languages and Tools 🎏</h3>
+  <h3>✨ Languages and Tools ✨</h3>
     <h5>Languages</h5>
       <img src="https://img.shields.io/badge/Java-000000?style=round-square&logo=OpenJDK&logoColor=red"/>
       <img src="https://img.shields.io/badge/C-000000?style=round-square&logo=C#&logoColor=red"/>
