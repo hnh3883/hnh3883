@@ -13,7 +13,7 @@
   <h3>✨ Languages and Tools ✨</h3>
     <h5>Languages</h5>
       <img src="https://img.shields.io/badge/Java-000000?style=round-square&logo=OpenJDK&logoColor=red"/>
-      <img src="https://img.shields.io/badge/C%23-000000?style=round-square&logo=C%23&logoColor=red"/>
+      <img src="https://img.shields.io/badge/C%23-000000?style=round-square&logo=Csharp&logoColor=red"/>
     <h5>Tools</h5>
       <img src="https://img.shields.io/badge/AndroidStudio-000000?style=round-square&logo=AndroidStudio&logoColor=32CD32"/>
       <img src="https://img.shields.io/badge/Unity-000000?style=round-square&logo=Unity&logoColor=FFFFFF">
@@ -23,7 +23,7 @@
   <br>
   <h3>📮 Contact Me 📮</h3>
   <p>
-    <a href="mailto:hnh3883@gmail.com"><img src="https://img.shields.io/badge/hnh3883@gmail.com-000000?style=flat&logo=Gmail&logoColor=FF0000"/></a>
+    <a href="mailto:hnh3883@gmail.com"><img src="https://img.shields.io/badge/hnh3883@naver.com-000000?style=flat&logo=Gmail&logoColor=FF0000"/></a>
     <a href="https://www.instagram.com/ji.hun_h/"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=FF1493"/></a>
   </p>
 </div>
