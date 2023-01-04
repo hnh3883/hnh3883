@@ -23,7 +23,7 @@
   <br>
   <h3>📮 Contact Me 📮</h3>
   <p>
-    <a href="mailto:hnh3883@gmail.com"><img src="https://img.shields.io/badge/hnh3883@naver.com-000000?style=flat&logo=Gmail&logoColor=FF0000"/></a>
+    <a href="mailto:hnh3883@gmail.com"><img src="https://img.shields.io/badge/hnh3883@gmail.com-000000?style=flat&logo=Gmail&logoColor=FF0000"/></a>
     <a href="https://www.instagram.com/ji.hun_h/"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=FF1493"/></a>
   </p>
 </div>
