@@ -13,7 +13,7 @@
   <h3>✨ Languages and Tools ✨</h3>
     <h5>Languages</h5>
       <img src="https://img.shields.io/badge/Java-000000?style=round-square&logo=OpenJDK&logoColor=red"/>
-      <img src="https://img.shields.io/badge/C_#-000000?style=round-square&logo=C#&logoColor=red"/>
+      <img src="https://img.shields.io/badge/C-000000?style=round-square&logo=C#&logoColor=red"/>
     <h5>Tools</h5>
       <img src="https://img.shields.io/badge/AndroidStudio-000000?style=round-square&logo=AndroidStudio&logoColor=32CD32"/>
       <img src="https://img.shields.io/badge/Unity-000000?style=round-square&logo=Unity&logoColor=FFFFFF">
